@@ -11,15 +11,11 @@ header, main, footer {
 }
 
 a {
-    color: white;
-    cursor: pointer;
+    // наполнение
 }
 
 .head-wrap, .main-wrap, .foot-wrap {
-    display: flex;
-    align-items: center;
-    max-width: 1252px;
-    width: 100%;
+    // наполнение
 }
 
 .head-wrap, .main-wrap {
@@ -27,7 +23,7 @@ a {
 }
 
 .basket:hover {
-    cursor: pointer;
+    
 }
 
 .text, .up-text {
@@ -45,20 +41,11 @@ a {
 }
 
 .title {
-    font-family: "Press Start 2P", serif;
-    font-size: 40px;
-    font-weight: 400;
-    line-height: 55px;
-    margin: 0;
+    // наполнение
 }
 
 .desc, .link {
-    font-size: 30px;
-    line-height: 46px;
-    text-align: justify;
-    max-width: 593px;
-    width: 100%;
-    margin: 0;
+    // наполнение
 }
 
 .desc {
@@ -66,21 +53,15 @@ a {
 }
 
 .link {
-    font-weight: 700;
-    transition: all 0.5s;
-    text-decoration: none;
+    // наполнение
 }
 
 .link:hover {
-    color: #ECA5B2;
-    text-decoration: underline;
+    // наполнение
 }
 
 .headphones {
-    position: absolute;
-    margin-top: 190px;
-    margin-left: 180px;
-    z-index: -1;
+    // наполнение
 }
 
 .foot-wrap {
@@ -95,28 +76,11 @@ a {
 }
 
 input {
-    background-color: #272727;
-    font-family: "Montserrat", serif;
-    font-weight: 600;
-    color: #ffffff;
-    border: 0px;
-    border-radius: 15px;
-    padding: 15px 20px;
-    width: 505px;
-    font-size: 20px;
-    outline: none;
+    // наполнение
 }
 
 .btn {
-    background-color: #ECA5B2;
-    font-family: "Press Start 2P", serif;
-    color: #ffffff;
-    border: 0px;
-    border-radius: 10px;
-    padding: 25px;
-    width: 545px;
-    font-size: 20px;
-    transition: all 0.5s;
+    // наполнение
 }
 
 .btn:hover {
@@ -125,16 +89,11 @@ input {
 }
 
 .foot-contacts {
-    display: flex;
-    flex-direction: column;
-    gap: 160px;
+    // наполнение
 }
 
 .foor-text {
-    font-weight: 500;
-    font-size: 16px;
-    text-align: right;
-    margin: 0;
+    // наполнение
 }
 
 .foor-text p {
